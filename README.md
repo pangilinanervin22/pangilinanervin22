@@ -11,5 +11,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangilinanervin22&show_icons=true&hide=prs,contribs&line_height=35&count_private=true&include_all_commits=flase&theme=vision-friendly-dark)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
