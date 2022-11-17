@@ -1,5 +1,5 @@
 
-# 🫰 My github profile
+##🫰 My github profile
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=D7B415&background=000000&center=true&vCenter=true&width=550&lines=I'm+20yrs+old+computer+science+student;Programming+is+one+of+my+pasttime;My+motto+%22Always+bet+on+javascript%22)](https://git.io/typing-svg)
 
 - 👀 I’m interested in web development
@@ -11,3 +11,12 @@
 #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangilinanervin22&show_icons=true&hide=prs,contribs&line_height=35&count_private=true&include_all_commits=flase&theme=vision-friendly-dark)
+
+# ⚒️ Sample Projects:
+- https://pangilinanervin22.github.io/simple-crud/
+- https://pangilinanervin22.github.io/unit-converter-react/
+- https://pangilinanervin22.github.io/philippine-blog/
+- https://pangilinanervin22.github.io/simon/
+- https://pangilinanervin22.github.io/card-matching/
+- https://pangilinanervin22.github.io/snake-web/
+- https://pangilinanervin22.github.io/mini-quiz
