@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in web development
 - 🌱 Now currently learning MERN stack
-- 🍼 Start learning programing as a hobby in 2020
+- 🍼 Start learning programing as a hobby in 2021
 - 🏫 Education 2nd year computer science at CvSu-Bacoor
 
 # 💻 Tech Stack:
