@@ -35,6 +35,7 @@
 
 
 # ⚒️ Sample Projects (🌐WEBSITES):
+- https://pangilinanervin22.github.io/inventory_react/
 - https://pangilinanervin22.github.io/simple-crud/
 - https://pangilinanervin22.github.io/unit-converter-react/
 - https://pangilinanervin22.github.io/philippine-blog/
