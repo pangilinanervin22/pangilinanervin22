@@ -5,7 +5,7 @@
 - 👀 I’m interested in web development
 - 🍼 Start learning programing as a hobby in 2021
 - 🏫 Education 4th year computer science at CvSu-Bacoor
-- 🌱 Now currently learning Game Development with Unity
+- 🌱 Now currently learning LLM
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
