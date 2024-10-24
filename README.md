@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in web development
 - 🍼 Start learning programing as a hobby in 2021
-- 🏫 Education 3rd year computer science at CvSu-Bacoor
+- 🏫 Education 4th year computer science at CvSu-Bacoor
 - 🌱 Now currently learning Game Development with Unity
 
 # 💻 Tech Stack:
