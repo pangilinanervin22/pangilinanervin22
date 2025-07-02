@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=D7B415&background=000000&center=true&vCenter=true&width=550&lines=I'm+22yrs+old+computer+science+student;Programming+is+one+of+my+pasttime;My+motto+%22Always+bet+on+javascript%22)](https://git.io/typing-svg)
 
 - 🍼 Start learning programing as a hobby in 2021
-- 🏫 Education 4th year computer science at CvSu-Bacoor
+- 🏫 Education graduating 4th year computer science at CvSu-Bacoor
 - 🌱 Attempting to learn DevOps 
 
 # 💻 Tech Stack:
