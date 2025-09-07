@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=D7B415&background=000000&center=true&vCenter=true&width=550&lines=I'm+22yrs+old+computer+science+student;Programming+is+one+of+my+pasttime;My+motto+%22Always+bet+on+javascript%22)](https://git.io/typing-svg)
 
 - 🍼 Start learning programing as a hobby in 2021
-- 🏫 Education graduating 4th year computer science at CvSu-Bacoor
+- 🏫 Education graduating 4th year computer science at CvSu-Bacoor (September 30, 2025)
 - 🌱 Attempting to learn DevOps 
 
 # 💻 Tech Stack:
@@ -24,6 +24,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
