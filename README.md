@@ -4,6 +4,7 @@
 
 - 🍼 Start learning programing as a hobby in 2021
 - 🏫 Education Computer Science Graduate in Cavite State University Bacoor 
+- 👨‍💻 Main skill full-stack web development (javascript/python)
 - 🌱 Attempting to learn DevOps and AI/Automation
 
 # 💻 Tech Stack:
