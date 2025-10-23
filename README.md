@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=D7B415&background=000000&center=true&vCenter=true&width=550&lines=I'm+23yrs+old+computer+science+graduate;Programming+is+one+of+my+pasttime;My+motto+%22Always+bet+on+javascript%22)](https://git.io/typing-svg)
 
 - 🍼 Start learning programing as a hobby in 2021
+- 🏢 Working remote as a Full-stack Developer
 - 🏫 Education Computer Science Graduate in Cavite State University Bacoor 
 - 👨‍💻 Main skill full-stack web development (javascript/python)
 - 🌱 Attempting to learn DevOps and AI/Automation
