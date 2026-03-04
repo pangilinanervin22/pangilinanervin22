@@ -6,7 +6,7 @@
 - 🏢 Working remote as a Full-stack Developer
 - 🏫 Education Computer Science Graduate in Cavite State University Bacoor 
 - 👨‍💻 Main skill full-stack web development (javascript/python)
-- 🌱 Attempting to learn DevOps and AI/Automation
+- 🌱 Attempting to learn AI/Automation
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -43,15 +43,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangilinanervin22&show_icons=true&theme=radical&count_private=true&include_all_commits=false)
-
-# ⚒️ Sample Projects (🌐WEBSITES):
-- https://reflair-thrift-store.vercel.app/
-- https://pangilinanervin22.github.io/inventory_react/
-- https://pangilinanervin22.github.io/simple-crud/
-- https://pangilinanervin22.github.io/unit-converter-react/
-- https://pangilinanervin22.github.io/philippine-blog/
-- https://pangilinanervin22.github.io/simon/
-- https://pangilinanervin22.github.io/card-matching/
-- https://pangilinanervin22.github.io/snake-web/
-- https://pangilinanervin22.github.io/mini-quiz
 
