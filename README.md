@@ -1,6 +1,6 @@
 
 #  🫰 My github profile
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=D7B415&background=000000&center=true&vCenter=true&width=550&lines=I'm+23yrs+old+computer+science+graduate;Programming+is+one+of+my+pasttime;My+motto+%22Always+bet+on+javascript%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=D7B415&background=000000&center=true&vCenter=true&width=550&lines=I'm+24yrs+old+computer+science+graduate;Programming+is+one+of+my+pasttime;My+motto+%22Always+bet+on+javascript%22)](https://git.io/typing-svg)
 
 - 🍼 Start learning programing as a hobby in 2021
 - 🏢 Working remote as a Full-stack Developer
@@ -42,5 +42,4 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangilinanervin22&show_icons=true&theme=radical&count_private=true&include_all_commits=false)
 
